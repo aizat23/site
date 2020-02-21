@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 82,
+    "uniqCompNum": 92,
     "versionPublish": "4.5.1",
     "theme": {
       "additionalSetColors": [
@@ -451,7 +451,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAHAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/jat.yb/\" aria-expanded=\"false\">Kawad Kaki</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/jat.yb/\" aria-expanded=\"false\">Ikatan Tali</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.facebook.com/SekretariatKORSISPAUSM/\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.instagram.com/korsispausm/\" target=\"_blank\">INSTAGRAM</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -477,7 +477,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sispa-170x128.png",
+              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -485,7 +485,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.wasap.my/+60109308264/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SEKRETARIAT KOR SISPA USM</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-x"
         },
@@ -820,7 +820,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fox-logo-201711-265x149.png",
+              "src": "@PROJECT_PATH@/assets/images/y-265x100.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -834,9 +834,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Serdang, Kedah, Malaysia",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: Aizatzainal12@gmail.com<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>FB : Muhammad Aizat Zainal Abidin</b></p><p class=\"mbr-contacts__text\"><b>Instagram : jat.yb</b></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -870,7 +870,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Page 1",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -886,7 +886,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAHAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/jat.yb/\" aria-expanded=\"false\">Kawad Kaki</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/jat.yb/\" aria-expanded=\"false\">Ikatan Tali</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.facebook.com/SekretariatKORSISPAUSM/\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.instagram.com/korsispausm/\" target=\"_blank\">INSTAGRAM</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -912,7 +912,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sispa-170x128.png",
+              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -920,7 +920,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.wasap.my/+60109308264/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SEKRETARIAT KOR SISPA USM</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1193,7 +1193,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fox-logo-201711-265x149.png",
+              "src": "@PROJECT_PATH@/assets/images/y-265x100.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1207,14 +1207,352 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Serdang, Kedah, Malaysia",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: Aizatzainal12@gmail.com<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>FB : Muhammad Aizat Zainal Abidin</b></p><p class=\"mbr-contacts__text\"><b>Instagram : jat.yb</b></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1x"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "resume",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2d"
+        },
+        {
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected=\"\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.com/\">\n                        <img src=\"../_images/logo2.png\" alt=\"Mobirise\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Address</h5>\n                <p class=\"mbr-text\">1234 Street Name<br>City, AA 99999</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Contacts</h5>\n                <p class=\"mbr-text\">Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Links</h5>\n                <p class=\"mbr-text\">\n                    <a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a>\n                    <br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a>\n                    <br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>\n                </p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">© Copyright 2017 Mobirise - All Rights Reserved</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                "-webkit-justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "justify-content": "center",
+                  "-webkit-justify-content": "center"
+                }
+              }
+            }
+          },
+          "_cid": "rqTFefyhn0",
+          "_protectedParams": [],
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e25041",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-2e"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/safe-image-2-1051x782.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Daftar@EjenResume",
+          "text": "Resume Siswa diwujudkan untuk membantu mahasiswa dalam mencari side income. Ia secara tidak langsung dapat memudahkan mahasiswa dalam menjalani kehidupan di Universiti yang amat memerlukan wang untuk digunakan. Jom jana side income RM 800 - RM 4000 dalam 7 HARI bersama kami.<br><br>Resume siswa juga menawarkan perkhidmatan membuat resume dengan cepat, mudah dan kreatif. Selain itu, kami juga menawarkan template Adobe Photoshop dan Adobe Illuslator yang amat murah, mudah dan kreatif.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-toolbar=\"-mbrBtnMove\">BELI RESUME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2h",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/y-1-2000x760.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "RESUME",
+          "currency1": "RM",
+          "price1": "4.99",
+          "period1": "/1 pcs",
+          "list1": "<ul><li><b>Kreatif</b></li><li><b>Murah</b></li><li><b>12 Jam siap</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BELI</a>",
+          "title2": "FULL TEMPLATE PRO 4.0",
+          "currency2": "RM",
+          "price2": "30",
+          "period2": "/ 1 pcs",
+          "list2": "<ul><li><b>FULL</b> Collection PS/AI</li><li><b>Kreatif</b></li><li><b>Murah</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">BELI</a>",
+          "title3": "Daftar Ejen Resume<br>(EJEN ALI)",
+          "currency3": "RM",
+          "price3": "10",
+          "period3": "",
+          "list3": "<div style=\"text-align: center;\"><b>1 pcs</b>&nbsp;resume dijual dapat <b>RM 10</b></div><ul><li><b>Copy Paste bahan je</b></li><li><b>Bahan Disediakan</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">JOM DAFTAR</a>",
+          "title4": "Daftar Ejen Resume <br>&nbsp;(EJEN ABU)",
+          "currency4": "RM",
+          "price4": "20",
+          "period4": "",
+          "list4": "<ul><li><b>1 pcs resume </b>dijual dapat <b>RM 15</b></li><li><b>Copy Paste bahan je</b></li><li><b>Bahan Disediakan</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">JOM DAFTAR</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2i"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/jawab-pm-640x640.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "JOM CARI SIDE INCOME",
+                "contentAlign": "center",
+                "text": "Kerja copy paste je. Anda boleh dapat side<br>income RM 100 dalam sehari je. Satu pelanggan yang awak dapat. Awak akan diberi pendapatan&nbsp;<br>RM 10 - RM 20. Wauu... bestnya. Kalau dalam sehari, awak dapat cari 5 orang pelanggan. Awak akan dapat RM100 - RM200.<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ALI&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ABU</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/safe-image-2-1051x782.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ALI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ABU</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/safe-image-2-1051x782.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Copy@Paste je <br>7 hari dapat RM800",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ALI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-toolbar=\"-mbrBtnMove\">DAFTAR EJEN ABU</a>",
+                "overlay": true,
+                "overlayOpacity": "0.8"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/y-265x100.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-u"
         }
       ]
     }

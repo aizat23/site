@@ -1,14 +1,15 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 92,
+    "uniqCompNum": 105,
     "versionPublish": "4.5.1",
     "theme": {
       "additionalSetColors": [
         "#1d404c",
-        "#454141"
+        "#454141",
+        "#3c3c3c"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/green-tick-image-background-transparent-home-improvement-red-check-mark-enchanting-128x118.png",
@@ -451,7 +452,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">NAMA:MUHAMMAD AIZAT BIN ZAINAL ABIDIN | NO. MATRIK:142263</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -477,7 +478,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
+              "src": "@PROJECT_PATH@/assets/images/j-logo-removebg-preview-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -485,7 +486,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YBP 223 : PENGIKLANAN</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-x"
         },
@@ -834,8 +835,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text1": "",
+          "text2": "<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -870,7 +871,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Page 1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -886,7 +887,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">NAMA:MUHAMMAD AIZAT BIN ZAINAL ABIDIN | NO. MATRIK:142263</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -912,7 +913,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
+              "src": "@PROJECT_PATH@/assets/images/j-logo-removebg-preview-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -920,7 +921,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YBP 223 : PENGIKLANAN</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1207,8 +1208,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text1": "",
+          "text2": "<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1222,7 +1223,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "resume",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1238,7 +1239,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUK &amp; PERKHIDMATAN&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Resume Murah</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Template PS/AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.wasap.my/60198423083/\" aria-expanded=\"false\">Daftar Ejen Resume</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">INSTAGRAM</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">NAMA:MUHAMMAD AIZAT BIN ZAINAL ABIDIN | NO. MATRIK:142263</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1264,7 +1265,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/y-336x128.png",
+              "src": "@PROJECT_PATH@/assets/images/j-logo-removebg-preview-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1272,7 +1273,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RESUME SISWA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YBP 223 : PENGIKLANAN</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-2d"
         },
@@ -1545,14 +1546,594 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Desasiswa Restu,<br>Universiti Sains Malaysia, <br>Kampus Induk, Gelugor,<br>Pulau Pinang",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: ResumeSiswa@gmail.com<br>FB : ResumeSiswa\n<br>Instagram : ResumeSiswa10<br><br>",
+          "text1": "",
+          "text2": "<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-u"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "YBP223",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/aizat.zainalabidin.9\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" target=\"_blank\">NAMA:MUHAMMAD AIZAT BIN ZAINAL ABIDIN | NO. MATRIK:142263</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/j-logo-removebg-preview-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.wasap.my/60198423083/NakBeliPakej\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YBP 223 : PENGIKLANAN</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2k"
+        },
+        {
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected=\"\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.com/\">\n                        <img src=\"../_images/logo2.png\" alt=\"Mobirise\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Address</h5>\n                <p class=\"mbr-text\">1234 Street Name<br>City, AA 99999</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Contacts</h5>\n                <p class=\"mbr-text\">Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Links</h5>\n                <p class=\"mbr-text\">\n                    <a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a>\n                    <br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a>\n                    <br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>\n                </p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">© Copyright 2017 Mobirise - All Rights Reserved</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                "-webkit-justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "justify-content": "center",
+                  "-webkit-justify-content": "center"
+                }
+              }
+            }
+          },
+          "_cid": "rqTFefyhn0",
+          "_protectedParams": [],
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e25041",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "_anchor": "footer1-2l"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efefef"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "24",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/xJMtQTSE_dw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TUGASAN TUTORIAL 1 Raya Jasa",
+          "meta": "Soalan 1 : Pilih beberapa iklan yang anda rasa sangat berkesan. Bincangkan  kenapa anda anggap ianya  berkesan. Berikan penerangan tentang keberkesanan iklan-iklan tersebut dari pelbagai sudut yang anda rasakan penting .",
+          "text": "Saya memilih iklan ini kerana iklan menggunakan tema amat sedih atau dekat dengan jiwa saya. Tema yang digunakan adalah berkenaan dengan sambutan hari raya. Setiap tahun sambutan ini, kita sering menyambutkan di kampung halaman. Keadaan ini amat saya rindui dikala pergerakan kita masih dikawal oleh Perintah Kawalan Pergerakan (PKP). Hal ini menyebabkan saya yakin bahawa iklan ini amat memberi kesan kepada saya dan saya selalu mengingati iklan ini. Oleh hal yang demikian, hari raya adalah antara hari paling diingati dalam hidup saya. Selain itu, muzik latar belakang iklan ini amat menusuk kalbu dan bermain dengan emosi saya. Muzik ini menarik saya untuk mengingati akan iklan ini. Iklan ini juga mengetengahkan jasa pengorbanan orang tua kita. Hal ini menyebabkan penonton sentiasa mengingati video ini",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/xJMtQTSE_dw\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2n"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "24",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/UPIN-IPIN.COM/",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TUGASAN TUTORIAL 2",
+          "meta": "VIDEO INI ADALAH BERKENAAN IKAN.",
+          "text": "Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.youtube.com/UPIN-IPIN.COM/\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2o"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "24",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/nQBqnjcE8-w",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TUGASAN TUTORIAL 3",
+          "meta": "SOALAN : Dengan menggunakan satu contoh kempen periklanan,  bincangkan segmentasi pasaran yang \n<br>telah dipelajari. Bagaimana kempen ini berjaya dan apakah segmentasi pasaran yang digunapakai?&nbsp;<br>",
+          "text": "<p>Segmentasi pasaran bagi kempen iklan ini adalah wanita. Kempen ini adalah untuk mempromosikan syampu dan majoriti yang menggunakan syampu pantene ini adalah golongan wanita. Hal ini menyebabkan wanita dijadikan objek dalam kempen iklan ini. Selain itu, lagu latar belakang iklan ini adalah perlahan atau sedih. Hal ini dapat menarik minat wanita dengan lagu seperti ini. Di samping itu, slogan wanita digunakan adalah amat berkesan iaitu #wanitabesi. Slogan ini dapat menaikkan semangat wanita untuk menempuh cabaran di hadapan dengan menggunakan syampu pantene, kejayaan adalah milik mereka.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/nQBqnjcE8-w\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2p"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "23",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO TUTORIAL 4",
+          "meta": "SOALAN : Jalankan penyelidikan sekunder  ke atas produk atau perkhidmatan pilihan kumpulan anda. Mulakan dgn internet  dan perpustakaan. Apakah yg anda dapati yg positif, negatif atau berguna mengenai produk atau perkhidmatan, jenama atau syarikatnya? Kongsikan dapatan kajian anda di kelas tutorial minggu hadapan.  ",
+          "text": "Kami memilih perkhidmatan dobi di sungai dua iaitu syarikat 123laundry. Setelah kami berbincang kami mendapati bahawa terdapat beberapa perkara dari sudut positif dan negatif. Dari sudut positif, tempat perkhidmatan dobi yang strategik kerana berhampiran dengan USM, kedai ini juga dibuka 24jam, mempunyai tempat untuk meletak kenderaan dan menyediakan perkhidmatan 'drop off service'. Dari sudut negatif pula, kami mendapati bahawa kedai ini kekurangan kemudahan sistem keselematan yang baik seperti CCTV, hiasan kedai yang kurang menarik, kedai ini masih kekurangan dari segi promosi dan mesin basuh sering mengalami kerosakan",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "26",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/OU8HuOkz2iY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO TUTORIAL 5",
+          "meta": "Cari contoh iklan dan cuba cari apakah objektif kempen serta posisi jenama produk tersebut.",
+          "text": "<p>Iklan ini adalah berkenaan Shoppee. Objektif iklan ini adalah untuk memberitahu penonton bahawa shoppe akan melakukan promosi pada 9.9. Iklan ini menjadi lebih berkesan adalah Ronaldo menjadi watak iklan yang dapat menarik jutaan penonton kerana populariti ronaldo. Selain itu, dalam objektif iklan ini menyatakan bahawa pengunaan shoppe amat mudah iaitu di mana sahaja, pelanggan boleh menggunakan perkhidmatan ini.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OU8HuOkz2iY\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2r"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "26",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/OebKxHfQOus ",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO TUTORIAL 6",
+          "meta": "Tonton iklan ini dan cuba hasilkan ringkasan media bagi kempen tersebut\n<br>https://youtu.be/OebKxHfQOus&nbsp;<br>",
+          "text": "<p>Iklan ini lebih bersifat alam sekitar. Golongan sasara iklan ini adalah golongan yang sukakan aktiviti lasak, adventure dan golongan yang meminati aktiviti luar atau outdoor. Selain itu, iklan ini juga kepada golongan keluarga yang selalu berfikir soal keselematan anak-anak mereka dan soal alam sekitar masa depan jika ia tidak dipelihara oleh golongan masa kini. Iklan ini juga menggunakan muzik latar belakang yang sedih dan ia dapat menyentuh emosi penonton. Hal ini menyebabkan penonton sentiasa mengingati iklan ini. Di sampin itu, iklan ini menghubungkan produk timberland dengan alam sekitar. Hal ini dapat mempengaruhi penonton bahawa iklan ini mencintai alam sekitar..</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OebKxHfQOus \" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2s"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "25",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO TUTORIAL 7",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2t"
         }
       ]
     }

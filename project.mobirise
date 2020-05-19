@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page3.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 105,
+    "uniqCompNum": 106,
     "versionPublish": "4.5.1",
     "theme": {
       "additionalSetColors": [
@@ -1762,7 +1762,7 @@
               "loop": false
             }
           },
-          "title": "TUGASAN TUTORIAL 1 Raya Jasa",
+          "title": "TUGASAN TUTORIAL 1&nbsp;",
           "meta": "Soalan 1 : Pilih beberapa iklan yang anda rasa sangat berkesan. Bincangkan  kenapa anda anggap ianya  berkesan. Berikan penerangan tentang keberkesanan iklan-iklan tersebut dari pelbagai sudut yang anda rasakan penting .",
           "text": "Saya memilih iklan ini kerana iklan menggunakan tema amat sedih atau dekat dengan jiwa saya. Tema yang digunakan adalah berkenaan dengan sambutan hari raya. Setiap tahun sambutan ini, kita sering menyambutkan di kampung halaman. Keadaan ini amat saya rindui dikala pergerakan kita masih dikawal oleh Perintah Kawalan Pergerakan (PKP). Hal ini menyebabkan saya yakin bahawa iklan ini amat memberi kesan kepada saya dan saya selalu mengingati iklan ini. Oleh hal yang demikian, hari raya adalah antara hari paling diingati dalam hidup saya. Selain itu, muzik latar belakang iklan ini amat menusuk kalbu dan bermain dengan emosi saya. Muzik ini menarik saya untuk mengingati akan iklan ini. Iklan ini juga mengetengahkan jasa pengorbanan orang tua kita. Hal ini menyebabkan penonton sentiasa mengingati video ini",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/xJMtQTSE_dw\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
@@ -1815,7 +1815,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/UPIN-IPIN.COM/",
+              "src": "https://youtu.be/nQBqnjcE8-w",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -1823,9 +1823,9 @@
             }
           },
           "title": "TUGASAN TUTORIAL 2",
-          "meta": "VIDEO INI ADALAH BERKENAAN IKAN.",
-          "text": "Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai. Ikan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungaiIkan berenang di dalam sungai. Di dalam sungai ada ikan. Dalam ikan ada sungai",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.youtube.com/UPIN-IPIN.COM/\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "meta": "SOALAN : Dengan menggunakan satu contoh kempen periklanan, bincangkan segmentasi pasaran yang \n<br>telah dipelajari. Bagaimana kempen ini berjaya dan apakah segmentasi pasaran yang digunapakai",
+          "text": "<p>Segmentasi pasaran bagi kempen iklan ini adalah wanita. Kempen ini adalah untuk mempromosikan syampu dan majoriti yang menggunakan syampu pantene ini adalah golongan wanita. Hal ini menyebabkan wanita dijadikan objek dalam kempen iklan ini. Selain itu, lagu latar belakang iklan ini adalah perlahan atau sedih. Hal ini dapat menarik minat wanita dengan lagu seperti ini. Di samping itu, slogan wanita digunakan adalah amat berkesan iaitu #wanitabesi. Slogan ini dapat menaikkan semangat wanita untuk menempuh cabaran di hadapan dengan menggunakan syampu pantene, kejayaan adalah milik mereka.</p><p>Link Video : https://youtu.be/nQBqnjcE8-w</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/nQBqnjcE8-w\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1874,10 +1874,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/untitled-4-1200x1224.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://youtu.be/nQBqnjcE8-w",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -1886,8 +1889,8 @@
             }
           },
           "title": "TUGASAN TUTORIAL 3",
-          "meta": "SOALAN : Dengan menggunakan satu contoh kempen periklanan,  bincangkan segmentasi pasaran yang \n<br>telah dipelajari. Bagaimana kempen ini berjaya dan apakah segmentasi pasaran yang digunapakai?&nbsp;<br>",
-          "text": "<p>Segmentasi pasaran bagi kempen iklan ini adalah wanita. Kempen ini adalah untuk mempromosikan syampu dan majoriti yang menggunakan syampu pantene ini adalah golongan wanita. Hal ini menyebabkan wanita dijadikan objek dalam kempen iklan ini. Selain itu, lagu latar belakang iklan ini adalah perlahan atau sedih. Hal ini dapat menarik minat wanita dengan lagu seperti ini. Di samping itu, slogan wanita digunakan adalah amat berkesan iaitu #wanitabesi. Slogan ini dapat menaikkan semangat wanita untuk menempuh cabaran di hadapan dengan menggunakan syampu pantene, kejayaan adalah milik mereka.</p>",
+          "meta": "SOALAN : Jalankan penyelidikan sekunder ke atas produk atau perkhidmatan pilihan kumpulan anda. Mulakan dgn internet dan perpustakaan. Apakah yg anda dapati yg positif, negatif atau berguna mengenai produk atau perkhidmatan, jenama atau syarikatnya? Kongsikan dapatan kajian anda di kelas tutorial minggu hadapan.&nbsp;<br>",
+          "text": "<p>Kami memilih perkhidmatan dobi di Bukit Gambir iaitu syarikat Laundrette Lah Enterprise. Setelah kami berbincang kami mendapati bahawa terdapat beberapa perkara dari sudut positif dan negatif. Dari sudut positif, tempat perkhidmatan dobi yang strategik kerana berhampiran dengan USM, kedai ini juga dibuka 24jam, mempunyai tempat untuk meletak kenderaan dan menyediakan perkhidmatan 'drop off service'. Dari sudut negatif pula, kami mendapati bahawa kedai ini kekurangan kemudahan sistem keselematan yang baik seperti CCTV, hiasan kedai yang kurang menarik, kedai ini masih kekurangan dari segi promosi dan mesin basuh sering mengalami kerosakan.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/nQBqnjcE8-w\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
@@ -1938,7 +1941,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/OU8HuOkz2iY",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -1946,9 +1949,9 @@
             }
           },
           "title": "VIDEO TUTORIAL 4",
-          "meta": "SOALAN : Jalankan penyelidikan sekunder  ke atas produk atau perkhidmatan pilihan kumpulan anda. Mulakan dgn internet  dan perpustakaan. Apakah yg anda dapati yg positif, negatif atau berguna mengenai produk atau perkhidmatan, jenama atau syarikatnya? Kongsikan dapatan kajian anda di kelas tutorial minggu hadapan.  ",
-          "text": "Kami memilih perkhidmatan dobi di sungai dua iaitu syarikat 123laundry. Setelah kami berbincang kami mendapati bahawa terdapat beberapa perkara dari sudut positif dan negatif. Dari sudut positif, tempat perkhidmatan dobi yang strategik kerana berhampiran dengan USM, kedai ini juga dibuka 24jam, mempunyai tempat untuk meletak kenderaan dan menyediakan perkhidmatan 'drop off service'. Dari sudut negatif pula, kami mendapati bahawa kedai ini kekurangan kemudahan sistem keselematan yang baik seperti CCTV, hiasan kedai yang kurang menarik, kedai ini masih kekurangan dari segi promosi dan mesin basuh sering mengalami kerosakan",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "meta": "Cari contoh iklan dan cuba cari apakah objektif kempen serta posisi jenama produk tersebut.  ",
+          "text": "<p>Iklan ini adalah berkenaan Shoppee. Objektif iklan ini adalah untuk memberitahu penonton bahawa shoppe akan melakukan promosi pada 9.9. Iklan ini menjadi lebih berkesan adalah Ronaldo menjadi watak iklan yang dapat menarik jutaan penonton kerana populariti ronaldo. Selain itu, dalam objektif iklan ini menyatakan bahawa pengunaan shoppe amat mudah iaitu di mana sahaja, pelanggan boleh menggunakan perkhidmatan ini seperti di stadium bola sepak.</p><p>Link Video : https://youtu.be/OU8HuOkz2iY</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OU8HuOkz2iY\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
           ],
@@ -1998,7 +2001,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/OU8HuOkz2iY",
+              "src": "https://youtu.be/OebKxHfQOus",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -2006,9 +2009,9 @@
             }
           },
           "title": "VIDEO TUTORIAL 5",
-          "meta": "Cari contoh iklan dan cuba cari apakah objektif kempen serta posisi jenama produk tersebut.",
-          "text": "<p>Iklan ini adalah berkenaan Shoppee. Objektif iklan ini adalah untuk memberitahu penonton bahawa shoppe akan melakukan promosi pada 9.9. Iklan ini menjadi lebih berkesan adalah Ronaldo menjadi watak iklan yang dapat menarik jutaan penonton kerana populariti ronaldo. Selain itu, dalam objektif iklan ini menyatakan bahawa pengunaan shoppe amat mudah iaitu di mana sahaja, pelanggan boleh menggunakan perkhidmatan ini.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OU8HuOkz2iY\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "meta": "Tonton iklan ini dan cuba hasilkan ringkasan media bagi kempen \"Dear Nature, We Miss You\"\n<br>by Timberland Malaysia.",
+          "text": "<p>Iklan ini lebih bersifat alam sekitar. Golongan sasara iklan ini adalah golongan yang sukakan aktiviti lasak, adventure dan golongan yang meminati aktiviti luar atau outdoor. Selain itu, iklan ini juga kepada golongan keluarga yang selalu berfikir soal keselematan anak-anak mereka dan soal alam sekitar masa depan jika ia tidak dipelihara oleh golongan masa kini. Iklan ini juga menggunakan muzik latar belakang yang sedih dan ia dapat menyentuh emosi penonton. Hal ini menyebabkan penonton sentiasa mengingati iklan ini. Di sampin itu, iklan ini menghubungkan produk timberland dengan alam sekitar. Hal ini dapat mempengaruhi penonton bahawa iklan ini mencintai alam sekitar.</p><p>Link video : <b>https://youtu.be/OebKxHfQOus</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OebKxHfQOus\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
           ],
@@ -2054,11 +2057,14 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/untitled-41-1200x1224.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
-              "src": "https://youtu.be/OebKxHfQOus ",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -2066,14 +2072,14 @@
             }
           },
           "title": "VIDEO TUTORIAL 6",
-          "meta": "Tonton iklan ini dan cuba hasilkan ringkasan media bagi kempen tersebut\n<br>https://youtu.be/OebKxHfQOus&nbsp;<br>",
-          "text": "<p>Iklan ini lebih bersifat alam sekitar. Golongan sasara iklan ini adalah golongan yang sukakan aktiviti lasak, adventure dan golongan yang meminati aktiviti luar atau outdoor. Selain itu, iklan ini juga kepada golongan keluarga yang selalu berfikir soal keselematan anak-anak mereka dan soal alam sekitar masa depan jika ia tidak dipelihara oleh golongan masa kini. Iklan ini juga menggunakan muzik latar belakang yang sedih dan ia dapat menyentuh emosi penonton. Hal ini menyebabkan penonton sentiasa mengingati iklan ini. Di sampin itu, iklan ini menghubungkan produk timberland dengan alam sekitar. Hal ini dapat mempengaruhi penonton bahawa iklan ini mencintai alam sekitar..</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/OebKxHfQOus \" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
+          "meta": "SOALAN : Tuliskan satu refleksi terhadap perbincangan yang dilakukan oleh Encik Jovian Lee, Creative Group Head, Leo Burnett yang bertajuk 'Confessions Of a CopyWriter'",
+          "text": "<p>Jovian Lee telah berkongsi berkenaan dengan 'confessions of a copwriter'. Beliau juga menceritakan kisah hidup beliau menjadi seorang 'copywriter'. Memang terdapat kisah hidup sedih dan duka. Pelbagai cabaran perlu dilalui untuk menjadi seorang 'copywriter'. Selain itu, beliau juga berkongsi tentang peranan dan fungsi 'copywriter'. Oleh itu, perkongsian yang dilalui oleh sangat menarik dan saya snagat berminat dengan perkongsian tersebut.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2s"
+          "_anchor": "msg-box5-2x"
         },
         {
           "_styles": {
@@ -2089,7 +2095,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showText": true,
             "showButtons": true,
             "inverse": false,
@@ -2114,10 +2120,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/untitled-5-1200x1224.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -2126,8 +2135,8 @@
             }
           },
           "title": "VIDEO TUTORIAL 7",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "meta": "SOALAN : Huraian perkaitan antara Insight - Idea - Execution (Pandangan - Idea - Pelaksanaan)",
+          "text": "Pandangan ialah kebanyakkan pelanggan dobi berasa agak malas tunggu di dobi tapi di sini mereka akan tertarik dengan perkhidmatan yang disediakan. Idea besar kami adalah 'JOM SINGGAH DOBI'. Hal ini adalah kerana Laundrette Lah berdekatan ivory. Ivory adalah tempat tumpuan bagi pelajar USM untuk makan bersama kawan-kawan. Selain itu, ia juga berdekatan dengan kedai serbaneka yang menjual semua segala keperluan asas yang diperlukan oleh pelajar. Untuk Pelaksanaan pula, ia adalah tempat yang strategik dan tepat untuk menjalankan perniagaan ini. Bila orang ingat nak makan orang akan ingat nak basuh baju juga. Sambil-sambil makan, boleh juga basuh baju di situ. 'Jom Singgah Dobi'.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINK VIDEO</a>",
           "_tags": [
             "Theme"
